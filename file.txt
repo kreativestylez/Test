@@ -1,1 +1,2 @@
-Line 1
+First Line of master branch
+Line 2
